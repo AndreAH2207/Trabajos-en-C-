@@ -1,0 +1,2 @@
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Semana 3 C++\Empresa UBER\Empresa UBER\x64\Debug\Empresa UBER.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Semana 3 C++\Empresa UBER\Empresa UBER\x64\Debug\Empresa UBER.vcxproj.SuggestedBindingRedirects.cache

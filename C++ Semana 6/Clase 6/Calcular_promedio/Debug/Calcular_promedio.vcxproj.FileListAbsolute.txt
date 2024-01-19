@@ -1,0 +1,2 @@
+E:\Semana 6\Clase 6\Calcular_promedio\Debug\Calcular_promedio.exe
+E:\Semana 6\Clase 6\Calcular_promedio\Debug\Calcular_promedio.vcxproj.AssemblyReference.cache

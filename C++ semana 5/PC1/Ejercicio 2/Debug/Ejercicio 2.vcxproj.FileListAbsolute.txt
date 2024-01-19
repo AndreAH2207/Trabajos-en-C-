@@ -1,0 +1,4 @@
+E:\PC1\Ejercicio 2\Debug\Ejercicio 2.vcxproj.AssemblyReference.cache
+E:\PC1\Ejercicio 2\Debug\Ejercicio 2.exe
+D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Ejercicio 2\Debug\Ejercicio 2.vcxproj.AssemblyReference.cache
+D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Ejercicio 2\Debug\Ejercicio 2.exe

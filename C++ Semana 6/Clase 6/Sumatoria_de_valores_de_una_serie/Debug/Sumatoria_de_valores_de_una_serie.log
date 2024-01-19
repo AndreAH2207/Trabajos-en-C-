@@ -1,0 +1,4 @@
+﻿  Sumatoria_de_valores_de_una_serie.cpp
+E:\Semana 6\Clase 6\Sumatoria_de_valores_de_una_serie\Sumatoria_de_valores_de_una_serie.cpp(24,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Sumatoria_de_valores_de_una_serie.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Sumatoria_de_valores_de_una_serie.vcxproj -> E:\Semana 6\Clase 6\Sumatoria_de_valores_de_una_serie\Debug\Sumatoria_de_valores_de_una_serie.exe

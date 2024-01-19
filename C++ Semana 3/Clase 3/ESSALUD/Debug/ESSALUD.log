@@ -1,0 +1,5 @@
+﻿  ESSALUD.cpp
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 3\Clase 3\ESSALUD\ESSALUD.cpp(14,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 3\Clase 3\ESSALUD\ESSALUD.cpp(19,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ESSALUD.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ESSALUD.vcxproj -> D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 3\Clase 3\ESSALUD\Debug\ESSALUD.exe

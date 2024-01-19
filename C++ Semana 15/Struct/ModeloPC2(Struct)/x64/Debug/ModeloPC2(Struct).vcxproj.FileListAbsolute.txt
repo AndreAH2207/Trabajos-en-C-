@@ -1,0 +1,2 @@
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\PC2\ModeloPC2(Struct)\ModeloPC2(Struct)\x64\Debug\ModeloPC2(Struct).vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\PC2\ModeloPC2(Struct)\ModeloPC2(Struct)\x64\Debug\ModeloPC2(Struct).vcxproj.SuggestedBindingRedirects.cache

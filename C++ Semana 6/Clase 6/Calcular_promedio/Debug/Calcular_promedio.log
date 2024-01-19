@@ -1,0 +1,6 @@
+﻿  Calcular_promedio.cpp
+E:\Semana 6\Clase 6\Calcular_promedio\Calcular_promedio.cpp(47,8): warning C4101: 'EF': unreferenced local variable
+E:\Semana 6\Clase 6\Calcular_promedio\Calcular_promedio.cpp(47,12): warning C4101: 'EP': unreferenced local variable
+E:\Semana 6\Clase 6\Calcular_promedio\Calcular_promedio.cpp(47,16): warning C4101: 'TF': unreferenced local variable
+  Calcular_promedio.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Calcular_promedio.vcxproj -> E:\Semana 6\Clase 6\Calcular_promedio\Debug\Calcular_promedio.exe

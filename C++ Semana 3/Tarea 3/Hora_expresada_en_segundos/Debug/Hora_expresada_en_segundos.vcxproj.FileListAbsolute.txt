@@ -1,0 +1,2 @@
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 3\Tarea 3\Hora_expresada_en_segundos\Debug\Hora_expresada_en_segundos.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 3\Tarea 3\Hora_expresada_en_segundos\Debug\Hora_expresada_en_segundos.exe

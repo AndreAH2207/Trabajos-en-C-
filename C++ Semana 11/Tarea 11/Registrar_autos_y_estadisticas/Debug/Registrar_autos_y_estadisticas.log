@@ -1,0 +1,4 @@
+﻿  Registrar_autos_y_estadisticas.cpp
+D:\Trabajos de programación en clase UPC\C++ Semana 11\Tarea 11\Registrar_autos_y_estadisticas\Registrar_autos_y_estadisticas.cpp(59,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Registrar_autos_y_estadisticas.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Registrar_autos_y_estadisticas.vcxproj -> D:\Trabajos de programación en clase UPC\C++ Semana 11\Tarea 11\Registrar_autos_y_estadisticas\Debug\Registrar_autos_y_estadisticas.exe

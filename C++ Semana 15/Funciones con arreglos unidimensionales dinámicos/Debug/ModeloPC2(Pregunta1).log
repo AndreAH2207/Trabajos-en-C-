@@ -1,0 +1,6 @@
+﻿  Funciones con arreglos unidimensionales dinámicos.cpp
+F:\Trabajos de programación en clase UPC\Semana 12 Practica Calificada 2\ModeloPC2(Pregunta1)\Funciones con arreglos unidimensionales dinámicos.cpp(60,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 12 Practica Calificada 2\ModeloPC2(Pregunta1)\Funciones con arreglos unidimensionales dinámicos.cpp(85,12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+F:\Trabajos de programación en clase UPC\Semana 12 Practica Calificada 2\ModeloPC2(Pregunta1)\Funciones con arreglos unidimensionales dinámicos.cpp(93,12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Funciones con arreglos unidimensionales dinámicos.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ModeloPC2(Pregunta1).vcxproj -> F:\Trabajos de programación en clase UPC\Semana 12 Practica Calificada 2\ModeloPC2(Pregunta1)\Debug\ModeloPC2(Pregunta1).exe

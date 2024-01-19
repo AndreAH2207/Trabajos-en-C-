@@ -1,0 +1,2 @@
+F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Grado_de_Satisfacción\Grado_de_Satisfacción\x64\Debug\Grado_de_Satisfacción.vcxproj.AssemblyReference.cache
+F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Grado_de_Satisfacción\Grado_de_Satisfacción\x64\Debug\Grado_de_Satisfacción.vcxproj.SuggestedBindingRedirects.cache

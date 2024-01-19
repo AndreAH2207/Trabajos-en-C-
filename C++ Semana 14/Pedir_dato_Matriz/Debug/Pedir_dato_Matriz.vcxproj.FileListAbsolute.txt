@@ -1,0 +1,8 @@
+D:\Trabajos de programación en clase UPC\C++ Semana 14\Pedir_dato_Matriz\Debug\Pedir_dato_Matriz.vcxproj.AssemblyReference.cache
+D:\Trabajos de programación en clase UPC\C++ Semana 14\Pedir_dato_Matriz\Debug\Pedir_dato_Matriz.exe
+F:\Trabajos de programación en clase UPC\C++ Semana 14\Pedir_dato_Matriz\Debug\Pedir_dato_Matriz.vcxproj.AssemblyReference.cache
+F:\Trabajos de programación en clase UPC\C++ Semana 14\Pedir_dato_Matriz\Debug\Pedir_dato_Matriz.vcxproj.SuggestedBindingRedirects.cache
+F:\Trabajos de programación en clase UPC\C++ Semana 14\Pedir_dato_Matriz\Debug\Pedir_dato_Matriz.exe
+D:\Microsoft Visual Studio\Trabajos de programación en clase UPC\C++ Semana 14\Pedir_dato_Matriz\Debug\Pedir_dato_Matriz.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Trabajos de programación en clase UPC\C++ Semana 14\Pedir_dato_Matriz\Debug\Pedir_dato_Matriz.vcxproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\Trabajos de programación en clase UPC\C++ Semana 14\Pedir_dato_Matriz\Debug\Pedir_dato_Matriz.exe

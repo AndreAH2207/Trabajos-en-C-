@@ -1,0 +1,11 @@
+﻿  Struct.cpp
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\PC2\ModeloPC2(Struct)\ModeloPC2(Struct)\Struct.cpp(33,27): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\PC2\ModeloPC2(Struct)\ModeloPC2(Struct)\Struct.cpp(71,23): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\PC2\ModeloPC2(Struct)\ModeloPC2(Struct)\Struct.cpp(73,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\PC2\ModeloPC2(Struct)\ModeloPC2(Struct)\Struct.cpp(113,23): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\PC2\ModeloPC2(Struct)\ModeloPC2(Struct)\Struct.cpp(115,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\PC2\ModeloPC2(Struct)\ModeloPC2(Struct)\Struct.cpp(154,23): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\PC2\ModeloPC2(Struct)\ModeloPC2(Struct)\Struct.cpp(202,11): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\PC2\ModeloPC2(Struct)\ModeloPC2(Struct)\Struct.cpp(209,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Struct.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ModeloPC2(Struct).vcxproj -> D:\Microsoft Visual Studio\Ejercicios Ciclo 1\PC2\ModeloPC2(Struct)\x64\Debug\ModeloPC2(Struct).exe

@@ -1,0 +1,2 @@
+D:\Trabajos de programación en clase UPC\C++ Semana 9\Promedio_de_Notas _de_Lenguaje\Debug\Promedio_de_Notas _de_Lenguaje.vcxproj.AssemblyReference.cache
+D:\Trabajos de programación en clase UPC\C++ Semana 9\Promedio_de_Notas _de_Lenguaje\Debug\Promedio_de_Notas _de_Lenguaje.exe

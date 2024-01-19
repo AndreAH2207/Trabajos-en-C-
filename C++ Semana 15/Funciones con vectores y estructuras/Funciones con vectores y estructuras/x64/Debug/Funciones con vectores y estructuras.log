@@ -1,0 +1,4 @@
+﻿  Funciones con vectores y estructuras.cpp
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\PC2\Funciones con vectores y estructuras\Funciones con vectores y estructuras\Funciones con vectores y estructuras.cpp(171,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Funciones con vectores y estructuras.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Funciones con vectores y estructuras.vcxproj -> D:\Microsoft Visual Studio\Ejercicios Ciclo 1\PC2\Funciones con vectores y estructuras\x64\Debug\Funciones con vectores y estructuras.exe

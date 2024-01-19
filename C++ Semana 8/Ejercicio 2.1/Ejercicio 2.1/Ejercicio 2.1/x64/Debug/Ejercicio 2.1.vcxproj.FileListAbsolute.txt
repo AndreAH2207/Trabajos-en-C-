@@ -1,0 +1,2 @@
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 2.1\Ejercicio 2.1\Ejercicio 2.1\x64\Debug\Ejercicio 2.1.vcxproj.AssemblyReference.cache
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 2.1\Ejercicio 2.1\Ejercicio 2.1\x64\Debug\Ejercicio 2.1.vcxproj.SuggestedBindingRedirects.cache

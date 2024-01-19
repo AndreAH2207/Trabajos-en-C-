@@ -1,0 +1,4 @@
+﻿  Version 2.0.cpp
+F:\Trabajos de programación en clase UPC\Trabajo Final\Aplicacion_para_Veterinaria (version 2.0)\Version 2.0\Version 2.0\Version 2.0.cpp(102,47): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Version 2.0.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Version 2.0.vcxproj -> F:\Trabajos de programación en clase UPC\Trabajo Final\Aplicacion_para_Veterinaria (version 2.0)\Version 2.0\x64\Debug\Version 2.0.exe

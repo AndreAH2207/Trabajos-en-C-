@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Semana 4 C++\SS23_Grupo9_Tarea1\ENUNCIADO 1 -RELACIONES\ENUNCIADO 1 -RELACIONES\Cuartel.h(65,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Semana 4 C++\SS23_Grupo9_Tarea1\ENUNCIADO 1 -RELACIONES\ENUNCIADO 1 -RELACIONES\Cuartel.h(70,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ENUNCIADO 1 -RELACIONES.vcxproj -> D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Semana 4 C++\SS23_Grupo9_Tarea1\ENUNCIADO 1 -RELACIONES\x64\Debug\ENUNCIADO 1 -RELACIONES.exe

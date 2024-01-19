@@ -1,0 +1,2 @@
+D:\Microsoft Visual Studio\Trabajos de programación en clase UPC\Examen Final\Pregunta 1 Caso D\Pregunta 1 Caso D\x64\Debug\Pregunta 1 Caso D.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Trabajos de programación en clase UPC\Examen Final\Pregunta 1 Caso D\Pregunta 1 Caso D\x64\Debug\Pregunta 1 Caso D.vcxproj.SuggestedBindingRedirects.cache

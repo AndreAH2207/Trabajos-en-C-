@@ -1,0 +1,3 @@
+F:\Trabajos de programación en clase UPC\Semana 12 Practica Calificada 2\ModeloPC2(Pregunta1)\Debug\ModeloPC2(Pregunta1).vcxproj.AssemblyReference.cache
+F:\Trabajos de programación en clase UPC\Semana 12 Practica Calificada 2\ModeloPC2(Pregunta1)\Debug\ModeloPC2(Pregunta1).vcxproj.SuggestedBindingRedirects.cache
+F:\Trabajos de programación en clase UPC\Semana 12 Practica Calificada 2\ModeloPC2(Pregunta1)\Debug\ModeloPC2(Pregunta1).exe

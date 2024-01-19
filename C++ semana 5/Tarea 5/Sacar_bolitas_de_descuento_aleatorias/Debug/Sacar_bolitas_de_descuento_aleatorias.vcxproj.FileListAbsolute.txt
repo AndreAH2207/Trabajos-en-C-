@@ -1,0 +1,5 @@
+D:\Trabajos de programación en clase UPC\C++ semana 5\Tarea 5\Sacar_bolitas_de_descuento_aleatorias\Debug\Sacar_bolitas_de_descuento_aleatorias.vcxproj.AssemblyReference.cache
+D:\Trabajos de programación en clase UPC\C++ semana 5\Tarea 5\Sacar_bolitas_de_descuento_aleatorias\Debug\Sacar_bolitas_de_descuento_aleatorias.exe
+F:\Trabajos de programación en clase UPC\C++ semana 5\Tarea 5\Sacar_bolitas_de_descuento_aleatorias\Debug\Sacar_bolitas_de_descuento_aleatorias.vcxproj.AssemblyReference.cache
+F:\Trabajos de programación en clase UPC\C++ semana 5\Tarea 5\Sacar_bolitas_de_descuento_aleatorias\Debug\Sacar_bolitas_de_descuento_aleatorias.vcxproj.SuggestedBindingRedirects.cache
+F:\Trabajos de programación en clase UPC\C++ semana 5\Tarea 5\Sacar_bolitas_de_descuento_aleatorias\Debug\Sacar_bolitas_de_descuento_aleatorias.exe

@@ -1,0 +1,5 @@
+﻿  Convertir_numero_entero.cpp
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Tarea 4\Convertir_numero_entero(ej1)\Convertir_numero_entero.cpp(16,7): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Tarea 4\Convertir_numero_entero(ej1)\Convertir_numero_entero.cpp(14): warning C4700: uninitialized local variable 'n' used
+  Convertir_numero_entero.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Convertir_numero_entero(ej1).vcxproj -> D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Tarea 4\Convertir_numero_entero(ej1)\Debug\Convertir_numero_entero(ej1).exe

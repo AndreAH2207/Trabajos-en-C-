@@ -1,0 +1,2 @@
+F:\Trabajos de programación en clase UPC\C++ Semana 4\Tarea 4\Entradas_teatro_britanico\Entradas_teatro_britanico\x64\Debug\Entradas_teatro_britanico.vcxproj.AssemblyReference.cache
+F:\Trabajos de programación en clase UPC\C++ Semana 4\Tarea 4\Entradas_teatro_britanico\Entradas_teatro_britanico\x64\Debug\Entradas_teatro_britanico.vcxproj.SuggestedBindingRedirects.cache

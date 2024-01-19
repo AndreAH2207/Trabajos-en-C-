@@ -1,0 +1,2 @@
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Semana 1 C++\Cubo\Cubo\x64\Debug\Cubo.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Semana 1 C++\Cubo\Cubo\x64\Debug\Cubo.vcxproj.SuggestedBindingRedirects.cache

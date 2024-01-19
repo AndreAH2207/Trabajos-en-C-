@@ -1,0 +1,2 @@
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\PC2\Funciones con vectores y estructuras\Funciones con vectores y estructuras\x64\Debug\Funciones con vectores y estructuras.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\PC2\Funciones con vectores y estructuras\Funciones con vectores y estructuras\x64\Debug\Funciones con vectores y estructuras.vcxproj.SuggestedBindingRedirects.cache

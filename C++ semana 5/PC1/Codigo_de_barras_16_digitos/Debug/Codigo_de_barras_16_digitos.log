@@ -1,0 +1,11 @@
+﻿  Codigo_de_barras_16_digitos.cpp
+D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Codigo_de_barras_16_digitos\Codigo_de_barras_16_digitos.cpp(15,13): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Codigo_de_barras_16_digitos\Codigo_de_barras_16_digitos.cpp(20,13): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Codigo_de_barras_16_digitos\Codigo_de_barras_16_digitos.cpp(25,13): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Codigo_de_barras_16_digitos\Codigo_de_barras_16_digitos.cpp(30,13): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Codigo_de_barras_16_digitos\Codigo_de_barras_16_digitos.cpp(35,13): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Codigo_de_barras_16_digitos\Codigo_de_barras_16_digitos.cpp(40,13): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Codigo_de_barras_16_digitos\Codigo_de_barras_16_digitos.cpp(60,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Codigo_de_barras_16_digitos\Codigo_de_barras_16_digitos.cpp(61,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Codigo_de_barras_16_digitos.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Codigo_de_barras_16_digitos.vcxproj -> D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Codigo_de_barras_16_digitos\Debug\Codigo_de_barras_16_digitos.exe

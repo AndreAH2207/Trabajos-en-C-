@@ -1,0 +1,4 @@
+﻿  Ordenamiento.cpp
+D:\Trabajos de programación en clase UPC\C++ Semana 10\Clase 10\Ordenamiento\Ordenamiento.cpp(130,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ordenamiento.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Ordenamiento.vcxproj -> D:\Trabajos de programación en clase UPC\C++ Semana 10\Clase 10\Ordenamiento\Debug\Ordenamiento.exe

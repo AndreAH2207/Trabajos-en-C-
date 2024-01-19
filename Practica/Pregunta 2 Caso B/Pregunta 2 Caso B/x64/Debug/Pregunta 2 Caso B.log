@@ -1,0 +1,4 @@
+﻿  Pregunta 2_Caso B.cpp
+D:\Microsoft Visual Studio\Trabajos de programación en clase UPC\Examen Final\Pregunta 2 Caso B\Pregunta 2 Caso B\Pregunta 2_Caso B.cpp(59,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Pregunta 2_Caso B.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Pregunta 2 Caso B.vcxproj -> D:\Microsoft Visual Studio\Trabajos de programación en clase UPC\Examen Final\Pregunta 2 Caso B\x64\Debug\Pregunta 2 Caso B.exe

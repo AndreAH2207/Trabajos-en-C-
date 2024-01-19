@@ -1,0 +1,2 @@
+D:\Trabajos de programación en clase UPC\C++ Semana 11\Tarea 11\Registrar_autos_y_estadisticas\Debug\Registrar_autos_y_estadisticas.vcxproj.AssemblyReference.cache
+D:\Trabajos de programación en clase UPC\C++ Semana 11\Tarea 11\Registrar_autos_y_estadisticas\Debug\Registrar_autos_y_estadisticas.exe

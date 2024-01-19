@@ -1,0 +1,15 @@
+﻿  Entradas_Qatar.cpp
+F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Entradas_Qatar\Entradas_Qatar\Entradas_Qatar.cpp(64,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Entradas_Qatar\Entradas_Qatar\Entradas_Qatar.cpp(68,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Entradas_Qatar\Entradas_Qatar\Entradas_Qatar.cpp(72,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Entradas_Qatar\Entradas_Qatar\Entradas_Qatar.cpp(86,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Entradas_Qatar\Entradas_Qatar\Entradas_Qatar.cpp(90,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Entradas_Qatar\Entradas_Qatar\Entradas_Qatar.cpp(94,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Entradas_Qatar\Entradas_Qatar\Entradas_Qatar.cpp(95,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Entradas_Qatar\Entradas_Qatar\Entradas_Qatar.cpp(211): warning C4700: se utilizó la variable local 'ciudadano' sin inicializar
+F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Entradas_Qatar\Entradas_Qatar\Entradas_Qatar.cpp(211): warning C4700: se utilizó la variable local 'discapacitado' sin inicializar
+F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Entradas_Qatar\Entradas_Qatar\Entradas_Qatar.cpp(211): warning C4700: se utilizó la variable local 'tarjeta' sin inicializar
+F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Entradas_Qatar\Entradas_Qatar\Entradas_Qatar.cpp(211): warning C4700: se utilizó la variable local 'zona' sin inicializar
+F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Entradas_Qatar\Entradas_Qatar\Entradas_Qatar.cpp(211): warning C4700: se utilizó la variable local 'fase' sin inicializar
+  Entradas_Qatar.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Entradas_Qatar.vcxproj -> F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Entradas_Qatar\x64\Debug\Entradas_Qatar.exe

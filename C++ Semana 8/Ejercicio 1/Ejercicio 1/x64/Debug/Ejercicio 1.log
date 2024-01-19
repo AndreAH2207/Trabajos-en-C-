@@ -1,0 +1,28 @@
+﻿  Ejercicio_1.cpp
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(99,9): warning C4244: 'return': conversión de 'int' a 'float'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(106,19): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(111,19): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(139,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(139,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(143,40): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(144,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(144,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(154,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(154,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(159,40): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(160,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(160,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(169,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(169,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(173,40): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(174,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(174,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(188,24): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(143): warning C4700: se utilizó la variable local 'precio' sin inicializar
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(188): warning C4700: se utilizó la variable local 'mes' sin inicializar
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(188): warning C4700: se utilizó la variable local 'dia' sin inicializar
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(188): warning C4700: se utilizó la variable local 'tipo' sin inicializar
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(188): warning C4700: se utilizó la variable local 'transporte' sin inicializar
+F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\Ejercicio 1\Ejercicio_1.cpp(188): warning C4700: se utilizó la variable local 'destino' sin inicializar
+  Ejercicio_1.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Ejercicio 1.vcxproj -> F:\Trabajos de programación en clase UPC\Semana 8 Examen Parcial\Ejercicio 1\x64\Debug\Ejercicio 1.exe

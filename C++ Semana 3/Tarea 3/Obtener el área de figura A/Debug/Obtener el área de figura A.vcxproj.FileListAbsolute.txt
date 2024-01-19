@@ -1,0 +1,4 @@
+E:\C++\Tarea 3 c++\Obtener el área de figura A\Debug\Obtener el área de figura A.vcxproj.AssemblyReference.cache
+E:\C++\Tarea 3 c++\Obtener el área de figura A\Debug\Obtener el área de figura A.exe
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 3\Tarea 3 c++\Obtener el área de figura A\Debug\Obtener el área de figura A.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 3\Tarea 3 c++\Obtener el área de figura A\Debug\Obtener el área de figura A.exe

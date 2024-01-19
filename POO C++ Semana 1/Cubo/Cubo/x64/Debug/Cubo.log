@@ -1,0 +1,8 @@
+﻿  Cubo.cpp
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Semana 1 C++\Cubo\Cubo\Header.h(14,16): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Semana 1 C++\Cubo\Cubo\Header.h(23,16): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Semana 1 C++\Cubo\Cubo\Cubo.cpp(14,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  Cubo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Cubo.vcxproj -> D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Semana 1 C++\Cubo\x64\Debug\Cubo.exe

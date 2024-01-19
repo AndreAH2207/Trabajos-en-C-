@@ -1,0 +1,6 @@
+﻿  Struct_porcentajes_promedios.cpp
+D:\Trabajos de programación en clase UPC\C++ Semana 11\Clase 11\Struct_porcentajes_promedios\Struct_porcentajes_promedios\Struct_porcentajes_promedios.cpp(36,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ Semana 11\Clase 11\Struct_porcentajes_promedios\Struct_porcentajes_promedios\Struct_porcentajes_promedios.cpp(48,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ Semana 11\Clase 11\Struct_porcentajes_promedios\Struct_porcentajes_promedios\Struct_porcentajes_promedios.cpp(53,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Struct_porcentajes_promedios.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Struct_porcentajes_promedios.vcxproj -> D:\Trabajos de programación en clase UPC\C++ Semana 11\Clase 11\Struct_porcentajes_promedios\Debug\Struct_porcentajes_promedios.exe

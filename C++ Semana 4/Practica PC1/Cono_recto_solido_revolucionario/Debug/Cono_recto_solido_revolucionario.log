@@ -1,0 +1,6 @@
+﻿  Cono.cpp
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Practica PC1\Cono_recto_solido_revolucionario\Cono.cpp(8,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Practica PC1\Cono_recto_solido_revolucionario\Cono.cpp(17,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Practica PC1\Cono_recto_solido_revolucionario\Cono.cpp(30,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Cono.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Cono_recto_solido_revolucionario.vcxproj -> D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Practica PC1\Cono_recto_solido_revolucionario\Debug\Cono_recto_solido_revolucionario.exe

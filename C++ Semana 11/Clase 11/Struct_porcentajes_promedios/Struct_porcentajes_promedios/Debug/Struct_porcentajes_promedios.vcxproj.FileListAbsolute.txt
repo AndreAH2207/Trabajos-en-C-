@@ -1,0 +1,1 @@
+D:\Trabajos de programación en clase UPC\C++ Semana 11\Clase 11\Struct_porcentajes_promedios\Struct_porcentajes_promedios\Debug\Struct_porcentajes_promedios.vcxproj.AssemblyReference.cache

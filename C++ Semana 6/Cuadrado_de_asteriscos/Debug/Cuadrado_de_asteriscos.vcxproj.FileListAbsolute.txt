@@ -1,0 +1,2 @@
+D:\Trabajos de programación en clase UPC\C++ Semana 6\Cuadrado_de_asteriscos\Debug\Cuadrado_de_asteriscos.vcxproj.AssemblyReference.cache
+D:\Trabajos de programación en clase UPC\C++ Semana 6\Cuadrado_de_asteriscos\Debug\Cuadrado_de_asteriscos.exe

@@ -1,0 +1,4 @@
+﻿  Registrar_autos_y_estadisticas_aleatorias.cpp
+D:\Trabajos de programación en clase UPC\C++ Semana 11\Tarea 11\Registrar_autos_y_estadisticas_aleatorias\Registrar_autos_y_estadisticas_aleatorias.cpp(121,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Registrar_autos_y_estadisticas_aleatorias.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Registrar_autos_y_estadisticas_aleatorias.vcxproj -> D:\Trabajos de programación en clase UPC\C++ Semana 11\Tarea 11\Registrar_autos_y_estadisticas_aleatorias\Debug\Registrar_autos_y_estadisticas_aleatorias.exe

@@ -1,0 +1,2 @@
+D:\Trabajos de programación en clase UPC\C++ Semana 12\Dibujar Logo\Debug\Dibujar Logo.vcxproj.AssemblyReference.cache
+D:\Trabajos de programación en clase UPC\C++ Semana 12\Dibujar Logo\Debug\Dibujar Logo.exe

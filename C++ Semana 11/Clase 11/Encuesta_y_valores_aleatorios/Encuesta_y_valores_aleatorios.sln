@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Encuesta_y_valores_aleatorios", "Encuesta_y_valores_aleatorios\Encuesta_y_valores_aleatorios.vcxproj", "{9C89F1E0-9171-43C5-9FB0-42E4213D6287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C89F1E0-9171-43C5-9FB0-42E4213D6287}.Debug|x64.ActiveCfg = Debug|x64
+		{9C89F1E0-9171-43C5-9FB0-42E4213D6287}.Debug|x64.Build.0 = Debug|x64
+		{9C89F1E0-9171-43C5-9FB0-42E4213D6287}.Debug|x86.ActiveCfg = Debug|Win32
+		{9C89F1E0-9171-43C5-9FB0-42E4213D6287}.Debug|x86.Build.0 = Debug|Win32
+		{9C89F1E0-9171-43C5-9FB0-42E4213D6287}.Release|x64.ActiveCfg = Release|x64
+		{9C89F1E0-9171-43C5-9FB0-42E4213D6287}.Release|x64.Build.0 = Release|x64
+		{9C89F1E0-9171-43C5-9FB0-42E4213D6287}.Release|x86.ActiveCfg = Release|Win32
+		{9C89F1E0-9171-43C5-9FB0-42E4213D6287}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4283A353-F5C0-4250-B909-24EE4DC106F1}
+	EndGlobalSection
+EndGlobal

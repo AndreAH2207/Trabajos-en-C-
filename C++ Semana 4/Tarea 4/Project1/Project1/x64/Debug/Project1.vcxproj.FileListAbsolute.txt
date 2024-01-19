@@ -1,0 +1,2 @@
+F:\Trabajos de programación en clase UPC\C++ Semana 4\Tarea 4\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+F:\Trabajos de programación en clase UPC\C++ Semana 4\Tarea 4\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache

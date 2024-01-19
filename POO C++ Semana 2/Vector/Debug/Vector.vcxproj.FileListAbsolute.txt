@@ -1,0 +1,2 @@
+D:\Trabajos de POO en clase UPC\C++ Semana 2\Vector\Debug\Vector.vcxproj.AssemblyReference.cache
+D:\Trabajos de POO en clase UPC\C++ Semana 2\Vector\Debug\Vector.exe

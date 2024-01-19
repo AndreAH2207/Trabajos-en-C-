@@ -1,0 +1,5 @@
+﻿  Transporte(matrices).cpp
+D:\Microsoft Visual Studio\Trabajos de programación en clase UPC\C++ Semana 12\Clase 12\Transporte(matrices)\Transporte(matrices).cpp(55,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\Microsoft Visual Studio\Trabajos de programación en clase UPC\C++ Semana 12\Clase 12\Transporte(matrices)\Transporte(matrices).cpp(68,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Transporte(matrices).obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Transporte(matrices).vcxproj -> D:\Microsoft Visual Studio\Trabajos de programación en clase UPC\C++ Semana 12\Clase 12\Transporte(matrices)\Debug\Transporte(matrices).exe

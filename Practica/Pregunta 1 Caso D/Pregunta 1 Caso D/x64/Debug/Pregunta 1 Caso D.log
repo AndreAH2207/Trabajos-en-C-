@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Microsoft Visual Studio\Trabajos de programación en clase UPC\Examen Final\Pregunta 1 Caso D\Pregunta 1 Caso D\Source.cpp(95,8): warning C4101: 'fecha': variable local sin referencia
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Pregunta 1 Caso D.vcxproj -> D:\Microsoft Visual Studio\Trabajos de programación en clase UPC\Examen Final\Pregunta 1 Caso D\x64\Debug\Pregunta 1 Caso D.exe

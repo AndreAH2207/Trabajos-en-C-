@@ -1,0 +1,2 @@
+E:\C++\Tarea 3 c++\Ventas de piezas\Debug\Ventas de piezas.vcxproj.AssemblyReference.cache
+E:\C++\Tarea 3 c++\Ventas de piezas\Debug\Ventas de piezas.exe

@@ -1,0 +1,10 @@
+﻿  Codigo_de_barras_de_empleado.cpp
+F:\Trabajos de programación en clase UPC\C++ Semana 4\Tarea 4\Project1\Project1\Codigo_de_barras_de_empleado.cpp(15,13): warning C4244: 'return': conversión de '__int64' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\C++ Semana 4\Tarea 4\Project1\Project1\Codigo_de_barras_de_empleado.cpp(20,13): warning C4244: 'return': conversión de '__int64' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\C++ Semana 4\Tarea 4\Project1\Project1\Codigo_de_barras_de_empleado.cpp(25,13): warning C4244: 'return': conversión de '__int64' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\C++ Semana 4\Tarea 4\Project1\Project1\Codigo_de_barras_de_empleado.cpp(30,13): warning C4244: 'return': conversión de '__int64' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\C++ Semana 4\Tarea 4\Project1\Project1\Codigo_de_barras_de_empleado.cpp(35,13): warning C4244: 'return': conversión de '__int64' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\C++ Semana 4\Tarea 4\Project1\Project1\Codigo_de_barras_de_empleado.cpp(41,13): warning C4244: 'return': conversión de '__int64' a 'int'; posible pérdida de datos
+F:\Trabajos de programación en clase UPC\C++ Semana 4\Tarea 4\Project1\Project1\Codigo_de_barras_de_empleado.cpp(54): warning C4715: 'Llego_tarde': no todas las rutas de acceso de control devuelven un valor
+  Codigo_de_barras_de_empleado.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project1.vcxproj -> F:\Trabajos de programación en clase UPC\C++ Semana 4\Tarea 4\Project1\x64\Debug\Codigo_De_Barras_de_empleado.exe

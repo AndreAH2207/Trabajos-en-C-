@@ -1,0 +1,2 @@
+F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Entradas_Qatar\Entradas_Qatar\x64\Debug\Entradas_Qatar.vcxproj.AssemblyReference.cache
+F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Entradas_Qatar\Entradas_Qatar\x64\Debug\Entradas_Qatar.vcxproj.SuggestedBindingRedirects.cache

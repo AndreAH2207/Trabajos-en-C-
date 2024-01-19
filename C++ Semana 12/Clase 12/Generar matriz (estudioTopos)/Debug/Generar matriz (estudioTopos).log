@@ -1,0 +1,10 @@
+﻿  Matriz_Topos.cpp
+D:\Trabajos de programación en clase UPC\C++ Semana 12\Clase 12\Generar matriz (estudioTopos)\Matriz_Topos.cpp(106,5): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Trabajos de programación en clase UPC\C++ Semana 12\Clase 12\Generar matriz (estudioTopos)\Matriz_Topos.cpp(110,5): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Trabajos de programación en clase UPC\C++ Semana 12\Clase 12\Generar matriz (estudioTopos)\Matriz_Topos.cpp(114,5): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Trabajos de programación en clase UPC\C++ Semana 12\Clase 12\Generar matriz (estudioTopos)\Matriz_Topos.cpp(118,5): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Trabajos de programación en clase UPC\C++ Semana 12\Clase 12\Generar matriz (estudioTopos)\Matriz_Topos.cpp(122,5): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Trabajos de programación en clase UPC\C++ Semana 12\Clase 12\Generar matriz (estudioTopos)\Matriz_Topos.cpp(126,5): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Trabajos de programación en clase UPC\C++ Semana 12\Clase 12\Generar matriz (estudioTopos)\Matriz_Topos.cpp(134,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Matriz_Topos.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Generar matriz (estudioTopos).vcxproj -> D:\Trabajos de programación en clase UPC\C++ Semana 12\Clase 12\Generar matriz (estudioTopos)\Debug\Generar matriz (estudioTopos).exe

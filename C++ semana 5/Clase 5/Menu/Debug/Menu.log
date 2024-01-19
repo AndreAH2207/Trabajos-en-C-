@@ -1,0 +1,4 @@
+﻿  Menu.cpp
+D:\Trabajos de programación en clase UPC\C++ semana 5\Clase 5\Menu\Menu.cpp(37,20): warning C4101: 'respuesta': unreferenced local variable
+  Menu.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Menu.vcxproj -> D:\Trabajos de programación en clase UPC\C++ semana 5\Clase 5\Menu\Debug\Menu.exe

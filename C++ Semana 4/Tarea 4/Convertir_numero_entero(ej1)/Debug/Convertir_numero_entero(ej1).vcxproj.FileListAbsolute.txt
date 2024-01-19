@@ -1,0 +1,2 @@
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Tarea 4\Convertir_numero_entero(ej1)\Debug\Convertir_numero_entero(ej1).vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Tarea 4\Convertir_numero_entero(ej1)\Debug\Convertir_numero_entero(ej1).exe

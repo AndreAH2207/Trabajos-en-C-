@@ -1,0 +1,2 @@
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Practica PC1\Cono_recto_solido_revolucionario\Debug\Cono_recto_solido_revolucionario.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Practica PC1\Cono_recto_solido_revolucionario\Debug\Cono_recto_solido_revolucionario.exe

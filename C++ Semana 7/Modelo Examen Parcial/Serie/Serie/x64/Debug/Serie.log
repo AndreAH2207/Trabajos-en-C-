@@ -1,0 +1,4 @@
+﻿  Serie.cpp
+F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Serie\Serie\Serie.cpp(34,21): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+  Serie.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Serie.vcxproj -> F:\Trabajos de programación en clase UPC\C++ Semana 7\Modelo Examen Parcial\Serie\x64\Debug\Serie.exe

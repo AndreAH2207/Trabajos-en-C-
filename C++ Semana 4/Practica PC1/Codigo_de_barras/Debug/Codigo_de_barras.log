@@ -1,0 +1,5 @@
+﻿  Codigo_de_barras.cpp
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Practica PC1\Codigo_de_barras\Codigo_de_barras.cpp(17,13): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Practica PC1\Codigo_de_barras\Codigo_de_barras.cpp(23,29): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  Codigo_de_barras.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Codigo_de_barras.vcxproj -> D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Practica PC1\Codigo_de_barras\Debug\Codigo_de_barras.exe

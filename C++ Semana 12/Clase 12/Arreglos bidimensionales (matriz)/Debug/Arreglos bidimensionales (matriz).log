@@ -1,0 +1,4 @@
+﻿  Arreglos Bidimensionalescpp.cpp
+D:\Trabajos de programación en clase UPC\C++ Semana 12\Arreglos bidimensionales (matriz)\Arreglos Bidimensionalescpp.cpp(42,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  Arreglos Bidimensionalescpp.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Arreglos bidimensionales (matriz).vcxproj -> D:\Trabajos de programación en clase UPC\C++ Semana 12\Arreglos bidimensionales (matriz)\Debug\Arreglos bidimensionales (matriz).exe

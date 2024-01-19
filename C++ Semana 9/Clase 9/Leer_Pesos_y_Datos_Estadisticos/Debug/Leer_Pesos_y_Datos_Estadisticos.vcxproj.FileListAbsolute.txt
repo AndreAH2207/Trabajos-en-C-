@@ -1,0 +1,2 @@
+D:\Trabajos de programación en clase UPC\C++ Semana 9\Clase 9\Leer_Pesos_y_Datos_Estadisticos\Debug\Leer_Pesos_y_Datos_Estadisticos.vcxproj.AssemblyReference.cache
+D:\Trabajos de programación en clase UPC\C++ Semana 9\Clase 9\Leer_Pesos_y_Datos_Estadisticos\Debug\Leer_Pesos_y_Datos_Estadisticos.exe

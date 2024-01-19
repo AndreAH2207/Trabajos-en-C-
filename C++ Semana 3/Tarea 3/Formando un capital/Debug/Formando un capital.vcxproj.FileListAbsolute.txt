@@ -1,0 +1,2 @@
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 3\Tarea 3\Formando un capital\Debug\Formando un capital.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 3\Tarea 3\Formando un capital\Debug\Formando un capital.exe

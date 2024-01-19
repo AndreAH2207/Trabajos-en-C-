@@ -1,0 +1,7 @@
+﻿  Vector.cpp
+D:\Trabajos de POO en clase UPC\C++ Semana 2\Vector\Vector.cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+D:\Trabajos de POO en clase UPC\C++ Semana 2\Vector\Vector.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+D:\Trabajos de POO en clase UPC\C++ Semana 2\Vector\Vector.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+D:\Trabajos de POO en clase UPC\C++ Semana 2\Vector\Vector.cpp(50,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Vector.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Vector.vcxproj -> D:\Trabajos de POO en clase UPC\C++ Semana 2\Vector\Debug\Vector.exe

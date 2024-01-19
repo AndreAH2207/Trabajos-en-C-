@@ -1,0 +1,25 @@
+﻿  Entradas_para_concierto.cpp
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(44,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(48,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(52,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(56,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(64,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(68,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(72,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(76,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(83,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(87,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(91,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(95,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(112,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(116,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(120,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(129,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(134,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(139,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(146,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(151,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(156,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Entradas_para_concierto.cpp(172,8): warning C4101: 'precio': unreferenced local variable
+  Entradas_para_concierto.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Entradas_para_concierto(hoja7, ej8).vcxproj -> D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 4\Clase 4\Entradas_para_concierto(hoja7, ej8)\Debug\Entradas_para_concierto(hoja7, ej8).exe

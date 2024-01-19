@@ -1,0 +1,10 @@
+﻿  CodigoDeBarras16.cpp
+D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Ejercicio 2\CodigoDeBarras16.cpp(15,11): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Ejercicio 2\CodigoDeBarras16.cpp(20,11): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Ejercicio 2\CodigoDeBarras16.cpp(25,11): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Ejercicio 2\CodigoDeBarras16.cpp(30,15): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Ejercicio 2\CodigoDeBarras16.cpp(35,11): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Ejercicio 2\CodigoDeBarras16.cpp(40,11): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Ejercicio 2\CodigoDeBarras16.cpp(45,11): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  CodigoDeBarras16.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Ejercicio 2.vcxproj -> D:\Trabajos de programación en clase UPC\C++ semana 5\PC1\Ejercicio 2\Debug\Ejercicio 2.exe

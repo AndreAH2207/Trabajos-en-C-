@@ -1,0 +1,7 @@
+﻿  Graficar.cpp
+D:\Trabajos de programación en clase UPC\C++ Semana 10\Clase 10\Graficar\Graficar.cpp(39,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ Semana 10\Clase 10\Graficar\Graficar.cpp(48,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Graficar.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Graficar.vcxproj -> D:\Trabajos de programación en clase UPC\C++ Semana 10\Clase 10\Graficar\x64\Debug\Graficar.exe

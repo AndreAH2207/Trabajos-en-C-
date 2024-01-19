@@ -1,0 +1,2 @@
+D:\Trabajos de programación en clase UPC\C++ Semana 12\Arreglos bidimensionales (matriz)\Debug\Arreglos bidimensionales (matriz).vcxproj.AssemblyReference.cache
+D:\Trabajos de programación en clase UPC\C++ Semana 12\Arreglos bidimensionales (matriz)\Debug\Arreglos bidimensionales (matriz).exe

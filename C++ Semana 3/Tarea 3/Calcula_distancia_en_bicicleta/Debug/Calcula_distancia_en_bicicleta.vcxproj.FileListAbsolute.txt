@@ -1,0 +1,2 @@
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 3\Tarea 3\Calcula_distancia_en_bicicleta\Debug\Calcula_distancia_en_bicicleta.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 3\Tarea 3\Calcula_distancia_en_bicicleta\Debug\Calcula_distancia_en_bicicleta.exe

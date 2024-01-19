@@ -1,0 +1,9 @@
+﻿  Promedio_de_Notas _de_Lenguaje.cpp
+D:\Trabajos de programación en clase UPC\C++ Semana 9\Promedio_de_Notas _de_Lenguaje\Promedio_de_Notas _de_Lenguaje.cpp(10,22): error C2065: 'tamaño': undeclared identifier
+D:\Trabajos de programación en clase UPC\C++ Semana 9\Promedio_de_Notas _de_Lenguaje\Promedio_de_Notas _de_Lenguaje.cpp(22,22): error C2065: 'tamaño': undeclared identifier
+D:\Trabajos de programación en clase UPC\C++ Semana 9\Promedio_de_Notas _de_Lenguaje\Promedio_de_Notas _de_Lenguaje.cpp(32,22): error C2065: 'tamaño': undeclared identifier
+D:\Trabajos de programación en clase UPC\C++ Semana 9\Promedio_de_Notas _de_Lenguaje\Promedio_de_Notas _de_Lenguaje.cpp(32,34): error C2143: syntax error: missing ';' before ')'
+D:\Trabajos de programación en clase UPC\C++ Semana 9\Promedio_de_Notas _de_Lenguaje\Promedio_de_Notas _de_Lenguaje.cpp(34,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ Semana 9\Promedio_de_Notas _de_Lenguaje\Promedio_de_Notas _de_Lenguaje.cpp(35,2): error C2143: syntax error: missing ';' before '}'
+D:\Trabajos de programación en clase UPC\C++ Semana 9\Promedio_de_Notas _de_Lenguaje\Promedio_de_Notas _de_Lenguaje.cpp(42,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ Semana 9\Promedio_de_Notas _de_Lenguaje\Promedio_de_Notas _de_Lenguaje.cpp(43,28): error C2065: 'tamaño': undeclared identifier

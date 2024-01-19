@@ -1,0 +1,5 @@
+﻿  Leer_Pesos_y_Datos_Estadisticos.cpp
+D:\Trabajos de programación en clase UPC\C++ Semana 9\Clase 9\Leer_Pesos_y_Datos_Estadisticos\Leer_Pesos_y_Datos_Estadisticos.cpp(20,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ Semana 9\Clase 9\Leer_Pesos_y_Datos_Estadisticos\Leer_Pesos_y_Datos_Estadisticos.cpp(106,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Leer_Pesos_y_Datos_Estadisticos.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Leer_Pesos_y_Datos_Estadisticos.vcxproj -> D:\Trabajos de programación en clase UPC\C++ Semana 9\Clase 9\Leer_Pesos_y_Datos_Estadisticos\Debug\Leer_Pesos_y_Datos_Estadisticos.exe

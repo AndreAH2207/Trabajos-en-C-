@@ -1,0 +1,4 @@
+﻿  Encuesta_y_valores_aleatorios.cpp
+D:\Trabajos de programación en clase UPC\C++ Semana 11\Clase 11\Encuesta_y_valores_aleatorios\Encuesta_y_valores_aleatorios\Encuesta_y_valores_aleatorios.cpp(136,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Encuesta_y_valores_aleatorios.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Encuesta_y_valores_aleatorios.vcxproj -> D:\Trabajos de programación en clase UPC\C++ Semana 11\Clase 11\Encuesta_y_valores_aleatorios\Debug\Encuesta_y_valores_aleatorios.exe

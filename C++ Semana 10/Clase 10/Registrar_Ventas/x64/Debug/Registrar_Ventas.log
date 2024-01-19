@@ -1,0 +1,10 @@
+﻿  Registrar_Ventas.cpp
+D:\Trabajos de programación en clase UPC\C++ Semana 10\Clase 10\Registrar_Ventas\Registrar_Ventas.cpp(23,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ Semana 10\Clase 10\Registrar_Ventas\Registrar_Ventas.cpp(39,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ Semana 10\Clase 10\Registrar_Ventas\Registrar_Ventas.cpp(40,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ Semana 10\Clase 10\Registrar_Ventas\Registrar_Ventas.cpp(42,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ Semana 10\Clase 10\Registrar_Ventas\Registrar_Ventas.cpp(49,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ Semana 10\Clase 10\Registrar_Ventas\Registrar_Ventas.cpp(54,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Trabajos de programación en clase UPC\C++ Semana 10\Clase 10\Registrar_Ventas\Registrar_Ventas.cpp(77,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Registrar_Ventas.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Registrar_Ventas.vcxproj -> D:\Trabajos de programación en clase UPC\C++ Semana 10\Clase 10\Registrar_Ventas\x64\Debug\Registrar_Ventas.exe

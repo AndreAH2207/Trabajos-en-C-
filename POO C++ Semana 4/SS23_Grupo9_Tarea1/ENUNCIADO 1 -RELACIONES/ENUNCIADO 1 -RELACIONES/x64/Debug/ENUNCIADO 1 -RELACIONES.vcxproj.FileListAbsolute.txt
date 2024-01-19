@@ -1,0 +1,4 @@
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Semana 4 C++\ENUNCIADO 1 -RELACIONES\ENUNCIADO 1 -RELACIONES\x64\Debug\ENUNCIADO 1 -RELACIONES.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Semana 4 C++\ENUNCIADO 1 -RELACIONES\ENUNCIADO 1 -RELACIONES\x64\Debug\ENUNCIADO 1 -RELACIONES.vcxproj.SuggestedBindingRedirects.cache
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Semana 4 C++\SS23_Grupo9_Tarea1\ENUNCIADO 1 -RELACIONES\ENUNCIADO 1 -RELACIONES\x64\Debug\ENUNCIADO 1 -RELACIONES.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Trabajos de Programacion 2 POO\Semana 4 C++\SS23_Grupo9_Tarea1\ENUNCIADO 1 -RELACIONES\ENUNCIADO 1 -RELACIONES\x64\Debug\ENUNCIADO 1 -RELACIONES.vcxproj.SuggestedBindingRedirects.cache

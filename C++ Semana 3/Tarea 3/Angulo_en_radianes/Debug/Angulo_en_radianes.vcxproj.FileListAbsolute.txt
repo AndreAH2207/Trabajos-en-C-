@@ -1,0 +1,2 @@
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 3\Tarea 3\Angulo_en_radianes\Debug\Angulo_en_radianes.vcxproj.AssemblyReference.cache
+D:\Microsoft Visual Studio\Ejercicios Ciclo 1\Semana 3\Tarea 3\Angulo_en_radianes\Debug\Angulo_en_radianes.exe
